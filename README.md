@@ -7,4 +7,4 @@ I am Paolo Jee Espiritu, an aspiring Frontend developer keen to learning new fra
 - ⚡ Fun fact: anything on wheels is automatically cool.
 
 ## Stacks
-[![My Skills](https://skillicons.dev/icons?i=ts,html,css,angular,gcp,firebase,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,html,css,angular,gcp,firebase,nodejs,webstorm)](https://skillicons.dev)
